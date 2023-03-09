@@ -1,0 +1,88 @@
+{
+    "about_me": [
+        {
+            "name": "Amit Pola",
+            "unique_id": "1",
+            "passion": "Big Data Engineering",
+            "contact_number": "9591621338",
+            "about_description": "I want to learn and grow in field of Big Data Engineering",
+            "skills": [
+                "python",
+                "pyspark",
+                "Airflow"
+            ]
+        },
+        {
+            "name": "Sukit",
+            "unique_id": "2",
+            "passion": "Harvest Engineering",
+            "contact_number": "345678901",
+            "about_description": "I love web scrapping",
+            "skills": [
+                "python",
+                "scrapping web",
+                "graphics"
+            ]
+        },
+        {
+            "name": "Yash Raj",
+            "unique_id": "3",
+            "passion": "Data Science Engineering",
+            "contact_number": "123456756",
+            "about_description": "I love Data science and analytics",
+            "skills": [
+                "python",
+                "pandas",
+                "numpy"
+            ]
+        },
+        {
+            "name": "Saquib Khan",
+            "unique_id": "4",
+            "passion": "Harvest Engineering",
+            "contact_number": "6312145612",
+            "about_description": "I love Web scrapping",
+            "skills": [
+                "python",
+                "HTML",
+                "Java Script"
+            ]
+        },
+        {
+            "name": "Eash",
+            "unique_id": "5",
+            "passion": "Big Data Engineering",
+            "contact_number": "52152162516251",
+            "about_description": "aasd",
+            "skills": [
+                "Python",
+                "Pyspark",
+                "Airflow"
+            ]
+        },
+        {
+            "name": "Anup",
+            "unique_id": "7",
+            "passion": "Surgery and Medicine",
+            "contact_number": "71623716",
+            "about_description": "i love learning medicine",
+            "skills": [
+                "Biology",
+                "Botanay",
+                "Pharma"
+            ]
+        },
+        {
+            "name": "Anmol",
+            "unique_id": "67",
+            "passion": "civil engineer",
+            "contact_number": "2736147123",
+            "about_description": "i am a civil engineer",
+            "skills": [
+                "foundation",
+                "machines",
+                "beams"
+            ]
+        }
+    ]
+}
